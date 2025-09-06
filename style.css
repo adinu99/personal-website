@@ -80,8 +80,6 @@ body {
 .nav-toggle {
   display: none;
   cursor: pointer;
-  z-index: 10001;
-  position: fixed;
 }
 
 .nav-toggle .bar {
@@ -648,5 +646,6 @@ body {
 }
 
 }
+
 
 
